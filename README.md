@@ -42,3 +42,4 @@ If you encounter any issues or have suggestions, feel free to contribute by subm
 
 This project is licensed under the [Apache 2.0](LICENSE).
 ```
+NOTE: As of Version 1.0.0 the extension is available only in Firefox browser.
