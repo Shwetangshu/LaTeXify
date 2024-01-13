@@ -1,10 +1,4 @@
 # LaTeXify
-Certainly! Below is a template for a README.md file that you can include in your GitHub repository. Replace placeholders with actual information where necessary.
-
-```markdown
-# LaTeXify
-
-This browser extension allows you to easily copy LaTeX and MathML equations from the ChatGPT web interface.
 
 ## Installation
 
